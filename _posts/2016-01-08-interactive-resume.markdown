@@ -5,14 +5,6 @@ categories: [jekyll]
 tags: 
 ---
 
-## About me
-
-I’m master student in University Lille 1 (France). I learn software engineering, web & mobile technology, ergonomics and human-computer interface. I'm passionate about new technologies, innovation and creativity.
-I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and more. As the saying goes: 'two heads are better than one'.
-I will be able to improve my skills on challenging projects. 
-{: style="text-align:justify;" :}
-I'm currently looking for a six-month internship starting in March 2017.
-
 ## Details
 
 Russian  
@@ -20,86 +12,98 @@ Lille, France, Earth
 (+33) 06 18 30 77 47  
 vasilina.frolkova@gmail.com
 
+## About me
+
+Actually as IT master student in University Lille 1, I am motivated to pursue my education in a challenging internship to international company. I will be able to improve my skills on challenging projects. I wish to evaluate and to use my know-how in dynamic group. My work experience have allowed me to improve my IT, managerial and language skills but also working with international team.
+{: style="text-align:justify;" :}
+I am available from March 2017.
+
 
 ## Experience
 
 ### Technical Support Engineer  
 Argos-Uchet  
 October 2015 – August 2016  
-Saint Petersburg, Russian Federation
+Saint Petersburg, Russia
 
 Technical and methodological support of users about managing of an ERP-system "1C Enterprise 8".
 Project Manager in Front Office.
 Realizing the specifications with the customer.
-Relating with the development department.
-Testing.
-Validating and implementation of the software program.
+Relating with the development department. Testing.
+Validation and implementation of the software program.
+Proficiency to ERP-system - Teamworking - Communication skills
+
 
 * * *
 
 ### Database Manager
 University of Aerospace Instrumentation  
 October 2012 – December 2013  
-Saint Petersburg, Russian Federation
+Saint Petersburg, Russia
 
-Managing and modifying on MS access DB 2007, the Standards Database (ISO 9001, ISO 9000, ISO 14000, ...) .
+Managing and modifying on MS Access DB 2007, the Standards Database (ISO 9001, ISO 9000, ISO 14000, ...) .
+Proficiency to MS Access - Autonomy - Analytical mind
 
 
 ## Education	
 
-### Université Lille 1 Sciences et Technologies
-Master Informatique, E-Services
-2016 – 2017
+### University Lille 1 Sciences et Technologies (Lille, France)
+IT Master degree, E-Services
+since 2016 
 
 * * *
 
-### Saint-Petersburg State University of Aerospace Instrumentation
-Engineer Diploma, Information Technology in media industry,  
-Gratuated since Juillet 2015  
+### SUAI, Saint-Petersburg State University of Aerospace Instrumentation (Saint-Peterburg, Russia)
+Gratuated as IT engineer in media industry
 2010 – 2015
 
 * * *
 
-### Graduate School of Engineering ESIGELEC  
+### Graduate School of Engineering ESIGELEC (Rouen, France)
 The discovery program  
-2014 – 2014
+March 2014  
 
 The discovery program in the context of a partnership agreement with ESIGELEC (Rouen, France) and St. Petersburg State University of Aerospace Instrumentation (Russia).
-The discovery of aerospaces companies (Safran Group : Aircelle, Snecma) in Normandy and the participation of conference of Aerospace field at ESIGELEC.
+The discovery of aerospace companies (Safran Group : Aircelle, Snecma) in Normandy and the participation in the conference of Aerospace field at ESIGELEC.
 
-## Abilities
+## Key skills 
 
-### Professional skills 
+### Computer skills 
 
 + HTML					
 + CSS					
-+ XML					
-+ JavaScript			 	
++ XML					 	
 + AngularJS				
-+ Java (Android)		 	
++ Java (Android)
++ JavaScript		 	
 
-### Tools
+### IT Tools
 
 + Adobe Photoshop		
 + Adobe InDesign
 + CorelDRAW
-+ SAP ERP
 + Github
 + Sublime Text
++ ERP-system
+
+### Operating system  
+
++ Windows (from 95 to 10)
++ Linux
 
 ### Personal skills
 
-+ Teamworking
-+ Organization
-+ Creativity
++ Curious
++ Organized
++ Creative
 
 ### Languages
 
-+ Russian - Native
-+ English - Professional
-+ Français - Professional
++ Russian - Mother tongue
++ English - Intermediate
++ Français - Intermediate
 
-## Projects
+## Engineering Project
 
 <!--You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
