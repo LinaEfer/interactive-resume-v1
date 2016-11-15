@@ -56,7 +56,7 @@ Lille, France
 
 ### SUAI, State University of Aerospace Instrumentation 
 Gratuated as IT engineer in media industry  
-2010 – 2015
+Setpember 2010 – July 2015  
 Saint-Peterburg, Russia
 
 * * *
