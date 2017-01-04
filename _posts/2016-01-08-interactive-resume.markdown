@@ -30,7 +30,7 @@ Technical and methodological support of users about managing of an ERP-system "1
 Project Manager in Front Office.
 Realizing the specifications with the customer.
 Relating with the development department. Testing.
-Validation and implementation of the software program.
+Validation and implementation of the software program.  
 Proficiency to ERP-system - Teamworking - Communication skills
 
 
@@ -41,7 +41,7 @@ State University of Aerospace Instrumentation
 October 2012 – December 2013  
 Saint Petersburg, Russia
 
-Managing and modifying on MS Access DB 2007, the Standards Database (ISO 9001, ISO 9000, ISO 14000, ...) .
+Managing and modifying on MS Access DB 2007, the Standards Database (ISO 9001, ISO 9000, ISO 14000, ...) .  
 Proficiency to MS Access - Autonomy - Analytical mind
 
 
