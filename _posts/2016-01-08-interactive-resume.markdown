@@ -78,7 +78,8 @@ The discovery of aerospace companies (Safran Group : Aircelle, Snecma) in Norman
 + FrameworkJS (AngularJS, Ionic)
 + PHP (Symfony 3)	
 + Java (Android)
-+ JavaScript		 	
++ JavaScript		
++ .NET 	
 
 ### IT Tools
 
