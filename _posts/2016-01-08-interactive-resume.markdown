@@ -73,10 +73,10 @@ The discovery of aerospace companies (Safran Group : Aircelle, Snecma) in Norman
 
 ### Computer skills 
 
-+ HTML					
-+ CSS					
++ HTML5 + CSS3			
 + XML					 	
-+ AngularJS				
++ FrameworkJS (AngularJS, Ionic)
++ PHP (Symfony 3)	
 + Java (Android)
 + JavaScript		 	
 
@@ -88,11 +88,6 @@ The discovery of aerospace companies (Safran Group : Aircelle, Snecma) in Norman
 + Github
 + Sublime Text
 + ERP-system
-
-<!--### Operating system  
-
-+ Windows (from 95 to 10)
-+ Linux -->
 
 ### Personal skills
 
@@ -106,33 +101,24 @@ The discovery of aerospace companies (Safran Group : Aircelle, Snecma) in Norman
 + English - Intermediate
 + Français - Intermediate
 
-## Engineering Project
+## Engineering Projects
 
 ### FeelLille
 
 FeelLille is an application which allows you to get information about events near you in the city of Lille.
 To get more information about this project, please visit the [about page][aboutPage] of the dedicated [DevBlog][devblog].
 
+### Open Science Paper
+
+Open Science Paper is a modern web framework for publishing true Open Science papers on GitHub. It uses jekyll (based on Ruby), 
+javascript and some JS libraries to create a simple framework to publish scientific papers on Github Pages. 
+For more info please consult the [git repository][git repository].
+
+## Video design projects
+
+Since 2016 I'm particularly interested in video montage. Visit my [Youtube Channel][Youtube Channel] to discover my works.
+
 [devblog]: https://whispyy.github.io/FeelLilleDevBlog
 [aboutPage]: https://whispyy.github.io/FeelLilleDevBlog/about/
-
-<!--You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. 
-
-Jekyll also offers powerful support for code snippets:
-
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT. 
-```-->
-<!--
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
--->
+[git repository]: https://github.com/LinaEfer/open-science-paper
+[Youtube Channel]: https://www.youtube.com/channel/UCDbhKIWV5xMXH9xpqmbesug
